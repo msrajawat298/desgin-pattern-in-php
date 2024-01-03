@@ -31,3 +31,10 @@ Welcome to the "Design Patterns in PHP" repository, a comprehensive collection o
    Stay tuned for regular updates, new patterns, and improvements. As the PHP language evolves, this repository will be maintained to reflect the latest best practices and design patterns.
 
 Feel free to explore, learn, and contribute to the "Design Patterns in PHP" repository. Together, let's build a robust collection of resources that empower developers to create scalable, maintainable, and efficient software solutions.
+
+References:
+- [Design Patterns](https://refactoring.guru/design-patterns/php)
+- [Design Patterns Video in JAVA](https://youtu.be/_Ac7CTHOFMg?si=EZ4utb1d54izpCru)
+- [JS Design Patterns](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev)
+- [Service Oriented architecture](https://www.geeksforgeeks.org/service-oriented-architecture)
+- [4 Design Patterns You Should Know for Web Development: Observer, Singleton, Strategy, and Decorator](https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/)
