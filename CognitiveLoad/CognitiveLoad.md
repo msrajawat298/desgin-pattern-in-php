@@ -1,0 +1,3 @@
+- [Cognitive Load Theory](https://practicalpie.com/cognitive-load-theory)
+- [Memory psychology](https://practicalpie.com/memory-psychology)
+- [Free memory test](https://practicalpie.com/free-memory-test)
