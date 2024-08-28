@@ -1,3 +1,4 @@
 - [Cognitive Load Theory](https://practicalpie.com/cognitive-load-theory)
 - [Memory psychology](https://practicalpie.com/memory-psychology)
 - [Free memory test](https://practicalpie.com/free-memory-test)
+- [Why Does Thinking Hurt the Brain?](https://youtu.be/DFW4A6EFuXY?si=xxqtVPMJ8_8ancGm)
