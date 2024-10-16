@@ -75,7 +75,7 @@ final class UserFactory {
     }
 
     /**
-     * Private ctor so nobody else can instantiate it
+     * Private __construct so nobody else can instantiate it
      *
      */
     private function __construct() {
@@ -83,6 +83,12 @@ final class UserFactory {
         * Write your login here...
         */
     }
+
+    // Prevent object cloning
+    private function __clone() {}
+
+    // Prevent unserializing of the singleton instance
+    private function __wakeup() {}
 }
 
 $result = UserFactory::Instance();
@@ -97,13 +103,13 @@ final class UserFactory_eager {
      *
      * @return UserFactory_eager
      */
-    static $inst = new UserFactory();
+    static $inst = new UserFactory_eager();
     public static function Instance() {
         return $inst;
     }
 
     /**
-     * Private ctor so nobody else can instantiate it
+     * Private __construct so nobody else can instantiate it
      *
      */
     private function __construct() {
@@ -111,6 +117,22 @@ final class UserFactory_eager {
         * Write your login here...
         */
     }
+
+    // Prevent object cloning
+    private function __clone() {}
+
+    // Prevent unserializing of the singleton instance
+    private function __wakeup() {}
 }
 ?>
 ```
+
+
+### Key Differences:
+| **Aspect**            | **Eager Initialization**                           | **Lazy Initialization**                          |
+|-----------------------|----------------------------------------------------|--------------------------------------------------|
+| **Instance Creation**  | Created when the class is loaded                   | Created when first accessed (on demand)          |
+| **Memory Usage**       | Uses memory even if not used                       | More efficient, instance created only if needed  |
+| **Performance**        | No delay in using the instance, but higher initial cost | Initial call to getInstance() might introduce a slight delay |
+
+In general, **lazy initialization** is preferred when the singleton instance might not always be needed, helping save resources. **Eager initialization** is simpler and can be used when the singleton is always required early on in the application.
