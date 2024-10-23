@@ -112,3 +112,5 @@ Remember, while Hexagonal Architecture has many benefits, it may not be suitable
 
 # Reference Link:
 - [Hexagonal Architecture](https://www.youtube.com/watch?v=JubdZIdLQ4M) 
+- [Banking application in PHP (DDD + Arch. Hex.)](https://github.com/oscarpascualbakker/ddd-hex-arch-banking)
+- [Hexagonal Architecture using Lumen](https://github.com/oscarpascualbakker/php-hexagonal-architecture-lumen)
