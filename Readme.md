@@ -34,6 +34,7 @@ Feel free to explore, learn, and contribute to the "Design Patterns in PHP" repo
 
 References:
 - [Design Patterns](https://refactoring.guru/design-patterns/php)
+- [Must to watch PHP Design Patterns](https://www.youtube.com/playlist?list=PLL4sNmZle1wAg3rX2V0tdllT15T6j5mvz)
 - [Design Patterns Video in JAVA](https://youtu.be/_Ac7CTHOFMg?si=EZ4utb1d54izpCru)
 - [JS Design Patterns](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev)
 - [Service Oriented architecture](https://www.geeksforgeeks.org/service-oriented-architecture)
