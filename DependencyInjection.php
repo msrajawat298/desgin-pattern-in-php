@@ -19,7 +19,7 @@ class UserProfile
     }
     public function updateUser()
     {
-        //updtae userSSSS
+        //update user
         $this->logger->log("user updated. ");
     }
     public function deleteUser()
