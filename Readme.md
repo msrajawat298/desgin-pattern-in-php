@@ -39,3 +39,4 @@ References:
 - [JS Design Patterns](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev)
 - [Service Oriented architecture](https://www.geeksforgeeks.org/service-oriented-architecture)
 - [4 Design Patterns You Should Know for Web Development: Observer, Singleton, Strategy, and Decorator](https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/)
+- [8 Design Patterns EVERY Developer Should Know](https://youtu.be/tAuRQs_d9F8?si=1ISe2Eo5PB515T0P)
