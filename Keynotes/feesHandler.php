@@ -1,0 +1,1 @@
+client -> trans-> type of trans -> if fees -> add 2% to amount -> call PayByCardCommandHandler -> handle -> validateTransactionAmount -> loadAccounts -> validateCurrencies -> processTransaction -> clientAccount -> debit -> merchantAccount -> credit -> return
